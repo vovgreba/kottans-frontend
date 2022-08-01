@@ -32,3 +32,15 @@
 1. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 ---
+
+## Git Collaboration
+
+Рівень- віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes виявився трохи складніше за попередні рівні. Також для мене були нові аргументи, які розглядалися в цьому розділі. Раніше з ними ніколи не стикався і тому трохи вони мені стали незрозумілі, але з часом я думаю це прийде.
+
+### Також залишу короткий звіт по пройденим рівням.
+
+<details>
+  <summary>Srcreenshots</summary>
+  <img src = "./task_git_collaboration/Git_basic.jpg">
+  <img src = "./task_git_collaboration/Git_remote_repository.jpg">
+</details>
